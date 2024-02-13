@@ -1,0 +1,19 @@
+.contenedor-sass-react {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.sass-react {
+    img{
+        height: 40%;
+        max-height: 80rem;
+    }
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+
+}
